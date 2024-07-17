@@ -1,0 +1,21 @@
+.css-1vg4zsk-MuiTablePagination-displayedRows {
+  display: none;
+}
+
+/* Custom scrollbar styles */
+.contentLeft::-webkit-scrollbar {
+  width: 8px;
+  /* Đặt chiều rộng của thanh cuộn */
+}
+
+.contentLeft::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  /* Màu của thanh cuộn */
+  border-radius: 4px;
+  /* Bo tròn góc của thanh cuộn */
+}
+
+.contentLeft::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+  /* Màu của nền thanh cuộn */
+}
